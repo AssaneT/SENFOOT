@@ -1,2 +1,2 @@
 # SENFOOT
-My first PHP project with Tailwind CSS
+My first PHP project with Laravel and Tailwind CSS
